@@ -7,15 +7,15 @@ email: ctorek at clemson dot edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+# keywords: minimal light
+description: Hazel is a third-year undergraduate at Clemson University studying computer science and math.
+canonical: https://hazeltorek.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/
 cv_link: ./cv
-github_link: https://github.com/in-my-ellement/
+github_link: https://github.com/hazel-torek/
 linkedin: https://www.linkedin.com/in/hazel-torek/
 #twitter: https://twitter.com/
 
