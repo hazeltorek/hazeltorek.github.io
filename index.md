@@ -16,8 +16,6 @@ I'm interested in making it easier for developers to build safe software using t
 
 During the summer of 2025, I participated in the [REUSE](https://www.cmu.edu/scs/s3d/reuse/) program at Carnegie Mellon University where I worked with Long Nguyen and [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) to extend the formalization of gradual verification to include unfolding expressions.
 
-See a full list of publications on my [CV](./cv).
-
 ## Teaching
 
 - **Fall 2025**: Head TA for CPSC 1070: Programming Methodology with [Prof. Cathy Kittelstad](https://people.computing.clemson.edu/~chochri/wordpress/).
