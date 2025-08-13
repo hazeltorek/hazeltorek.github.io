@@ -84,9 +84,15 @@
         </a>
         {% endif %}
 
+        {% if site.lastfm %}
+        <a style="margin: 0 5px 0 0" href="{{ site.lastfm }}">
+          <i class="fab fa-square-lastfm"></i>
+        </a>
+        {% endif %}
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
+	        <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
         </div>
