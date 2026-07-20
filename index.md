@@ -6,26 +6,20 @@ layout: homepage
 
 **Update: I'll be applying to Ph.D. programs in the 2026 -- 2027 cycle!**
 
-I'm a fourth-year honors student in computer science and math at Clemson University, advised by [Dr. Paige Rodeghero](https://paigerodeghero.com/) and [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)'s research group at Carnegie Mellon University.
+I'm a fourth-year honors student in computer science and math at Clemson University, advised by [Dr. Paige Rodeghero](https://paigerodeghero.com/) and [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/).
 
 I also co-direct [CUhackit](https://cuhack.it/#/), the student organization hosting Clemson's annual hackathons. Check out our three upcoming events! 
 
-## News
-
-- **February 2026**: I will be working in the [REUSE](https://www.cmu.edu/scs/s3d/reuse/) program again for Summer 2026 to work on information flow type systems. 
-- **October 2025**: I presented [Unfolding Expressions for Gradual Verification](https://youtu.be/RWOUvKaVN60) at [IWACO 2025](https://conf.researchr.org/home/icfp-splash-2025/iwaco-2025?).
-- **February 2025**: I have been admitted to the [REUSE](https://www.cmu.edu/scs/s3d/reuse/) program for Summer 2025, where I'll be working with Dr. Jonathan Aldrich on a project related to formal methods.
-
 ## Research
 
-I'm interested in making it easier for developers to build safe software and specify program behavior with types, using techniques from programming languages and software engineering. I'm also interested in how we teach students and developers to write safe code and computer science education broadly.
+I'm interested in making it easier for developers to build safe software and specify program behavior with types, using techniques from programming languages and software engineering.
 
-### Information Borrowing
+#### Information Borrowing
 *Summer 2026 to Present*
 
 I'm currently working with [Hemant Gouni](https://hgouni.com/) and [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) on designing approaches for elegantly handling mutable state in information flow type systems. More coming soon!  
 
-### Gradual Verification
+#### Gradual Verification
 *Summer 2025 to Summer 2026*
 
 Gradual verification is a technique for program verification that decreases the specification burden and enables incremental development of specifications by allowing developers to write explicitly partial specifications that are backed by run-time checks.
@@ -36,7 +30,7 @@ During Summer 2025, I worked with [Long Tien Nguyen](https://www.linkedin.com/in
 - **IWACO 2025**. *Unfolding Expressions for Gradual Verification*. Hazel Torek, Long Tien Nguyen, and Jonathan Aldrich. [[Slides]](https://docs.google.com/presentation/d/17FJr0gl7mJ0ldHfq-N9w-z5wXfjyYz9QxxLQtl9WC4o/edit?usp=sharing) [[Video]](https://youtu.be/RWOUvKaVN60) 
 - [Poster](./assets/files/reuse25-poster.pdf) from the REUSE 2025 poster session. 
 
-### Metric Dimension of Infinite Graphs
+#### Metric Dimension of Infinite Graphs
 *Spring 2024 to Spring 2025*
 
 Metric dimension is a graph invariant describing the minimum number of vertices needed in a "resolving set" to uniquely identify all other vertices based on their shortest distances from those in the resolving set. Strong metric dimension strengthens this property so that non-isomorphic graphs have distinct resolving sets.
