@@ -17,7 +17,9 @@ I'm interested in making it easier for developers to build safe software and spe
 #### Information Borrowing
 *Summer 2026 to Present*
 
-I'm currently working with [Hemant Gouni](https://hgouni.com/) and [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) on designing approaches for elegantly handling mutable state in information flow type systems. More coming soon!  
+I'm currently working with [Hemant Gouni](https://hgouni.com/) and [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) on designing approaches for elegantly handling mutable state in information flow type systems. 
+
+- [Poster](./assets/files/reuse26-poster.pdf) from the REUSE 2026 poster session. 
 
 #### Gradual Verification
 *Summer 2025 to Summer 2026*
@@ -43,7 +45,9 @@ Starting in Spring 2024, I worked with [Beth Novick](https://www.clemson.edu/sci
 
 ## Teaching
 
-- **Fall 2026**: Lead Undergraduate TA for Academic Instruction and Co-Instructor for CPSC 1900: Teaching Assistant Fundamentals, supervised by [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
+- **Fall 2026**: Lead Undergraduate TA for Academic Instruction in the School of Computing, supervised by [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
+  - Co-Instructor for CPSC 1900: Teaching Assistant Fundamentals.
+  - Maintainer for the School of Computing autograder framework.
 - **Spring 2026**: Head TA for CPSC 1070: Programming Methodology with [Prof. Cathy Kittelstad](https://people.computing.clemson.edu/~chochri/wordpress/).
 - **Fall 2025**: Head TA for CPSC 1070: Programming Methodology with [Prof. Cathy Kittelstad](https://people.computing.clemson.edu/~chochri/wordpress/).
 - **Spring 2025**: Head TA for CPSC 1070: Programming Methodology with [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
