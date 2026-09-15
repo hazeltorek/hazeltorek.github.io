@@ -46,11 +46,11 @@ Starting in Spring 2024, I worked with [Beth Novick](https://www.clemson.edu/sci
 
 ## Teaching
 
-- **Fall 2026**: Lead Undergraduate TA for Academic Instruction in the School of Computing, supervised by [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
+- **Fall 2026**: Lead Undergraduate TA for Academic Instruction in the School of Computing, supervised by [Dr. Chris Plaue](https://cplaue.people.clemson.edu/).
   - Co-Instructor for CPSC 1900: Teaching Assistant Fundamentals.
   - Maintainer for the School of Computing autograder framework.
 - **Spring 2026**: Head TA for CPSC 1070: Programming Methodology with [Prof. Cathy Kittelstad](https://people.computing.clemson.edu/~chochri/wordpress/).
 - **Fall 2025**: Head TA for CPSC 1070: Programming Methodology with [Prof. Cathy Kittelstad](https://people.computing.clemson.edu/~chochri/wordpress/).
-- **Spring 2025**: Head TA for CPSC 1070: Programming Methodology with [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
-- **Fall 2024**: TA for CPSC 1070: Programming Methodology with [Dr. Chris Plaue](https://people.computing.clemson.edu/~cplaue/Chris_Plaue/Welcome.html).
+- **Spring 2025**: Head TA for CPSC 1070: Programming Methodology with [Dr. Chris Plaue](https://cplaue.people.clemson.edu/).
+- **Fall 2024**: TA for CPSC 1070: Programming Methodology with [Dr. Chris Plaue](https://cplaue.people.clemson.edu/).
 - **Spring 2024**: TA for CPSC 1070: Programming Methodology with Dr. Alex Adkins.
